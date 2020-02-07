@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Linan Zhang"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher in Biomedical Informatices at UPMC"
-  location         : "Pittsburgh, PA, USA"
-  employer         :
+  bio              : "Postdoctoral Researcher in Biomedical Informatices"
+  location         : "Pittsburgh, PA USA"
+  employer         : "UPMC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=C7C--z4AAAAJ&hl=en"
   email            :
