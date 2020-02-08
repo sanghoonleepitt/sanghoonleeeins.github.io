@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematical Sciences, Carnegie Mellon University, 2019
+* Ph.D. in Mathematical Sciences, Carnegie Mellon University, 2019
 * B.S. in Mathematical Sciences, Worcester Polytechnic Institute, 2015
 
 Employment
