@@ -16,9 +16,8 @@ Education
 
 Employment
 ------
-* University of Pittsburgh
-  * Postdoctoral Associate, Department of Biomedical Informatics, 2020 --
-  * Supervisor: Dr. Hatice Ulku Osmanbeyoglu
+* Postdoctoral Associate, Department of Biomedical Informatics, University of Pittsburgh，2020 --
+  * PI: Dr. Hatice Ulku Osmanbeyoglu
 
 Conference Presentations
 ------
@@ -29,11 +28,3 @@ Awards
 ------
 * [WPI Salisbury Prize](https://www.wpi.edu/about/awards/salisbury-prize), 2015
 * [WPI Charles O’Thompson Scholar](https://www.wpi.edu/about/awards/charles-o-thompson-scholar-outstanding-member-class), 2012
-
-Skills
-------
-* MATLAB
-* Python
-  * Data analysis: pandas
-  * Deep learning frameworks: Keras, Pytorch, TensorFlow
-  * Biomedical tools: [scanpy](https://icb-scanpy.readthedocs-hosted.com/en/stable/), [SimpleITK](http://www.simpleitk.org/)
