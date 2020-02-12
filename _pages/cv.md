@@ -14,7 +14,7 @@ Education
 * Ph.D. in Mathematical Sciences, Carnegie Mellon University, 2019
 * B.S. in Mathematical Sciences, Worcester Polytechnic Institute, 2015
 
-Employment
+Professional Appointments
 ------
 * Postdoctoral Associate, Department of Biomedical Informatics, University of Pittsburgh，2020 --
   * PI: Dr. Hatice Ulku Osmanbeyoglu
