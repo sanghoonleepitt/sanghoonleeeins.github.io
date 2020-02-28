@@ -20,3 +20,5 @@ author_profile: true
 * \* H. Schaeffer, G. Tran, R. Ward, **L. Zhang**. [Extracting structured dynamical systems using sparse optimization with very few samples.](https://arxiv.org/abs/1805.04158) arXiv preprint arXiv:1805.04158, 2018.
   * [code](https://github.com/linanzhang/SparseCyclicRecovery)
 * **L. Zhang** and H. Schaeffer. [Stability and error estimates of BV solutions to the Abel inverse problem.](https://iopscience.iop.org/article/10.1088/1361-6420/aad1c7/meta) Inverse Problems, 34(10):105003, 2018.
+
+![](https://github.com/linanzhang/linanzhang.github.io/blob/master/images/WordArt.png "Keywords")
