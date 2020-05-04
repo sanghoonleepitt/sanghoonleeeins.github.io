@@ -11,4 +11,4 @@ I am a postdoctoral researcher in [Osmanbeyoglu Lab](http://osmanbeyoglulab.com/
 
 Before joining Pitt, I received a Ph.D. in Mathematical Sciences from Carnegie Mellon University and a B.S. in Mathematical Sciences from Worcester Polytechnic Institute.
 
-Last update: Mar 2020
+Last update: May 2020
