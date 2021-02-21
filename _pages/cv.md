@@ -16,6 +16,7 @@ Education
 
 Professional Appointments
 ------
+* Lecturer (Assistant Professor), School of Mathematics and Statistics, Ningbo University，February 2021 -- now
 * Postdoctoral Associate, Department of Biomedical Informatics, University of Pittsburgh，February 2020 -- January 2021
   * PI: Dr. Hatice Ulku Osmanbeyoglu
 
