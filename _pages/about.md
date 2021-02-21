@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in [Osmanbeyoglu Lab](http://osmanbeyoglulab.com/) at University of Pittsburgh. My current research focus is on developing statistical and mathematical models for single cell multi-omics integration.
+I am a Lecturer (Assistant Professor) of the School of Mathematics and Statistics at Ningbo University. My current research foci are on 
+- developing statistical and mathematical models for single cell multi-omics integration;
+- identifying dynamic models from spatio-temporal data through machine learning methods.
 
-Before joining Pitt, I received a Ph.D. in Mathematical Sciences from Carnegie Mellon University and a B.S. in Mathematical Sciences from Worcester Polytechnic Institute.
-
-Last update: January 2021
+Last update: February 2021
