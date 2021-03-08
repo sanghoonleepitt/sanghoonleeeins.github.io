@@ -12,6 +12,7 @@ redirect_from:
 Education
 ------
 * Ph.D. in Mathematical Sciences, Carnegie Mellon University, August 2015 -- December 2019
+* M.S in Mathematical Sciences, Carnegie Mellon University, August 2015 -- December 2016
 * B.S. in Mathematical Sciences, Worcester Polytechnic Institute, August 2011 -- May 2015
 
 Professional Appointments
