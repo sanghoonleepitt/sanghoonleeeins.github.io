@@ -13,6 +13,7 @@ author_profile: true
 
 \* indicates alphabetical order of last names.
 
+* S. Cascio, C. Chandler, **L. Zhang**, S. Sinno, B. Gao, S. Onkar, T. Bruno, D. Vignali, H. Mahdi, H. Osmanbeyoglu, A. Vlad, L. Coffman, and R. Buckanovich. Cancer associated MSC drive tumor immune exclusion and resistance to immunotherapy which can be overcome by hedgehog inhibition. _Under Review_.
 * Y. Sun, **L. Zhang**, and H. Schaeffer. [NeuPDE: neural network based ordinary and partial differential equations for modeling time-dependent data.](http://proceedings.mlr.press/v107/sun20a/sun20a.pdf) _Proceedings of Machine Learning Research_, 107:352–372, 2020.
 * \* H. Schaeffer, G. Tran, R. Ward, and **L. Zhang**. [Extracting structured dynamical systems using sparse optimization with very few samples.](https://epubs.siam.org/doi/abs/10.1137/18M1194730) _Multiscale Modeling & Simulation_, 18(4):1435–1461, 2020.
   * [code](https://github.com/linanzhang/SparseCyclicRecovery)
