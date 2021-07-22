@@ -46,12 +46,6 @@ Research Experience
 * Research Coordinator, VA Health Center, January 2010 -- December 2011	
   * Center for Health Information and Research (CHIR) Information Extraction Methods and Ejection Fraction
 
-Leadership & Mentoring
-------
-* Mentor for a high school student, CoSBBI program, July 2020 - August 2020
-* Mentor for a graduate student, iBRIC program, July 2019 - August 2019
-*	Mentor for a high school student, CoSBBI program, July 2018 - August 2018	
-
 Honors and Awards
 ------
 * The 2nd Best publication of the year in the department of Biomedical Informatics, August 2018 and August 2020
