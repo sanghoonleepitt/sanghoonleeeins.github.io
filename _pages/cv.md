@@ -18,6 +18,8 @@ Professional Appointments
 ------
 * Postdoctoral Associate, Department of Biomedical Informatics, University of Pittsburgh，August 2021 -- Present
   * PI: Dr. Hatice Ulku Osmanbeyoglu
+* Graduate Student Researcher (GSR), Department of Biomedical Informatics, University of Pittsburgh，August 2015 -- July 2021
+  * PI: Dr. Xiaosong Wang
 
 Skills
 -------
@@ -30,23 +32,20 @@ Skills
 				
 Research Experience
 ------
-* Gradaute student, University of Pittsburgh, May 2017 – July 2021
+* Gradaute student, University of Pittsburgh, May 2017 -- July 2021
   * Integral multi-omics modeling to predict breast cancer patient response to HER2-targeted therapy
   * Landscape analysis of adjacent gene rearrangements reveals BCL2L14-ETV6 gene fusions in more aggressive triple-negative breast cancer
   * Concept Signature Enrichment Analysis: a novel pathway enrichment analysis method for interpreting complex pathway alterations and for single cell sequencing datasets
-
-* Graduate student, University of Pittsburgh, August 2015 - May 2017	
+* Graduate student, University of Pittsburgh, August 2015 -- May 2017	
   * An algorithm for direct causal learning of influences on patient outcomes<br>
-	* Modeling miRNA-mRNA interactions that cause phenotypic abnormality in breast cancer patients<br>
+  * Modeling miRNA-mRNA interactions that cause phenotypic abnormality in breast cancer patients<br>
+* Lab Technician, University of Utah, October 2012 -- April 2015	
+  * Identification of master regulators that regulate White or Brown Adipose Tissue (WAT or BAT) differentiation
+* Research volunteer, University of Utah, November 2011 -- January 2013	
+  * Robust meta-analysis shows that glioma transcriptional subtyping complements traditional approaches
+* Research Coordinator, VA Health Center, January 2010 -- December 2011	
+  * Center for Health Information and Research (CHIR) Information Extraction Methods and Ejection Fraction
 
-	* 10/2012 – 04/2015	Lab Technician, University of Utah<br>
-				o Identification of master regulators that regulate White or Brown Adipose Tissue (WAT or BAT) differentiation
-				<br>
-				11/2011 – 01/2013	Research volunteer, University of Utah<br>
-				o Robust meta-analysis shows that glioma transcriptional subtyping complements traditional approaches<br>
-				<br>
-				01/2010 – 12/2011	Research Coordinator, VA Health Center<br>
-				o Center for Health Information and Research (CHIR) Information Extraction Methods and Ejection Fraction<br>
 Leadership & Mentoring
 ------
 * Mentor for a high school student, CoSBBI program, July 2020 - August 2020
