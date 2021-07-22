@@ -7,15 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Graduate Teaching Assistant at CMU
+Graduate Teaching Assistant
 ------
-* Linear Algebra (21-341)
-* Numerical Methods (21-369)
-* Introduction to Functional Analysis (21-640)
+* Lecture for graduate students in the course, Foundations of Biomedical Informatics, March 2020
+* Translational Informatics, January 2019 - April 2019
+* Foundations of Bioinformatics, August 2017 - December 2017
 
-Peer Learning Assistant at WPI
+Leadership & Mentoring
 ------
-* Calculus (MA1021-MA1024)
-* Ordinary Differential Equations (MA2051)
-* Rings and Fields (MA3825)
-* Applicable Complex Variables (MA4291)
+* Mentor for a high school student, CoSBBI program, July 2020 - August 2020
+* Mentor for a graduate student, iBRIC program, July 2019 - August 2019
+*	Mentor for a high school student, CoSBBI program, July 2018 - August 2018	
