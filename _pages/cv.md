@@ -11,22 +11,48 @@ redirect_from:
 
 Education
 ------
-* Ph.D. in Mathematical Sciences, Carnegie Mellon University, August 2015 -- December 2019
-* M.S in Mathematical Sciences, Carnegie Mellon University, August 2015 -- December 2016
-* B.S. in Mathematical Sciences, Worcester Polytechnic Institute, August 2011 -- May 2015
+* Ph.D in Biomedical Informatics, University of Pittsburgh, June 2017 -- May 2021
+* M.S in Biomedical Informatics, University of Pittsburgh, August 2015 -- May 2017
 
 Professional Appointments
 ------
-* Lecturer (Assistant Professor), School of Mathematics and Statistics, Ningbo University，February 2021 -- now
-* Postdoctoral Associate, Department of Biomedical Informatics, University of Pittsburgh，February 2020 -- January 2021
+* Postdoctoral Associate, Department of Biomedical Informatics, University of Pittsburgh，August 2021 -- Present
   * PI: Dr. Hatice Ulku Osmanbeyoglu
 
-Professional Presentations
+Skills
+-------
+* Integrative bioinformatics & Biostatistics
+* Machine Learning and Deep Learning
+* WGS, WXS, and RNAseq analysis
+* Solid skills in R, Perl, and Shell
+* Solid skills in High Performance Computing
+* Experienced with genomic data sources such as NCBI GEO, SRA, and dbGaP, GDC, ICGC, EGA, COSMIC, CCLE, GDSC, GTEx, Metabric
+				
+Research Experience
 ------
-* [SIAM Conference on Applications of Dynamical Systems (DS19)](https://www.siam.org/conferences/cm/conference/ds19)
-* [SIAM Conference on Computational Science and Engineering (CSE15)](https://archive.siam.org/meetings/cse15/)
-  
+* Gradaute student, University of Pittsburgh, May 2017 – July 2021
+  * Integral multi-omics modeling to predict breast cancer patient response to HER2-targeted therapy
+  * Landscape analysis of adjacent gene rearrangements reveals BCL2L14-ETV6 gene fusions in more aggressive triple-negative breast cancer
+  * Concept Signature Enrichment Analysis: a novel pathway enrichment analysis method for interpreting complex pathway alterations and for single cell sequencing datasets
+
+* Graduate student, University of Pittsburgh, August 2015 - May 2017	
+  * An algorithm for direct causal learning of influences on patient outcomes<br>
+	* Modeling miRNA-mRNA interactions that cause phenotypic abnormality in breast cancer patients<br>
+
+	* 10/2012 – 04/2015	Lab Technician, University of Utah<br>
+				o Identification of master regulators that regulate White or Brown Adipose Tissue (WAT or BAT) differentiation
+				<br>
+				11/2011 – 01/2013	Research volunteer, University of Utah<br>
+				o Robust meta-analysis shows that glioma transcriptional subtyping complements traditional approaches<br>
+				<br>
+				01/2010 – 12/2011	Research Coordinator, VA Health Center<br>
+				o Center for Health Information and Research (CHIR) Information Extraction Methods and Ejection Fraction<br>
+Leadership & Mentoring
+------
+* Mentor for a high school student, CoSBBI program, July 2020 - August 2020
+* Mentor for a graduate student, iBRIC program, July 2019 - August 2019
+*	Mentor for a high school student, CoSBBI program, July 2018 - August 2018	
+
 Honors and Awards
 ------
-* [WPI Salisbury Prize](https://www.wpi.edu/about/awards/salisbury-prize), 2015
-* [WPI Charles O’Thompson Scholar](https://www.wpi.edu/about/awards/charles-o-thompson-scholar-outstanding-member-class), 2012
+* The 2nd Best publication of the year in the department of Biomedical Informatics, August 2018 and August 2020
